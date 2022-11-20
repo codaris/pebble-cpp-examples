@@ -1,0 +1,33 @@
+{
+  "name": "pebble-cpp-test",
+  "author": "MakeAwesomeHappen",
+  "version": "1.0.0",
+  "keywords": [
+    "pebble-app"
+  ],
+  "private": true,
+  "dependencies": {
+    "pebble-cpp": "^0.2.0"
+  },
+  "pebble": {
+    "displayName": "pebble-cpp-test",
+    "uuid": "6aa6bec9-725a-4391-abf7-636be1423396",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk",
+      "diorite"
+    ],
+    "watchapp": {
+      "watchface": false
+    },
+    "messageKeys": [
+      "dummy"
+    ],
+    "resources": {
+      "media": []
+    }
+  }
+}

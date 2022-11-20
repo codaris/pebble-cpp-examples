@@ -1,2 +1,1 @@
-# pebble-cpp-examples
-Examples using Pebble C++ (Pebble Foundation Classes)
+# Pebble Foundation Classes Example Projects

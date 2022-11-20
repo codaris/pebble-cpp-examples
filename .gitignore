@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Custom
+.lock-waf_linux2_build
+dist.zip
+.svn
+build
+.vscode
+node_modules
